@@ -11,6 +11,8 @@
         color: white; 
         padding-top: 25px;
          font-size:25px;
+         text-shadow: @livewireScriptConfig('text-shadow');
+         font-weight: bold;
     }
     label{
         display: inline-block;
